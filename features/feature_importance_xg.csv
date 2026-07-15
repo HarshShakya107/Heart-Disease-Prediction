@@ -1,0 +1,14 @@
+,Features,Importance
+3,ap_hi,0.40736967
+4,ap_lo,0.2256225
+5,cholesterol,0.08312042
+12,bp_category,0.082933836
+10,age_years,0.07636969
+9,active,0.020387907
+11,bmi,0.019472072
+6,gluc,0.018267695
+7,smoke,0.017214436
+2,weight,0.014701303
+0,gender,0.012751662
+8,alco,0.011506061
+1,height,0.010282846
